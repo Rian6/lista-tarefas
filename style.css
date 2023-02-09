@@ -1,0 +1,27 @@
+h1 { 
+    border-bottom-style: inset;
+ }
+ body{
+    align-items: center;
+ }
+ .img{
+    width: 20%;
+ }
+ .al-center{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center!important;
+    align-items: center;
+ }
+ .bsize{
+    width: 200px;
+    margin: 5px;
+ }
+.tarefa-selecionada { 
+    color: rgb(0, 140, 255); 
+    font-style: italic; 
+}
+.tarefa-normal {
+     color: black; 
+}
